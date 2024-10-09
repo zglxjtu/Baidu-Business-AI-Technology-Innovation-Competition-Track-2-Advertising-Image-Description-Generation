@@ -1,0 +1,3 @@
+{
+    "conversation": ["<|im_start|>user\n{{user}}<|im_end|>\n", "<|im_start|>assistant\n{{bot}}<|im_end|>\n"]
+}
